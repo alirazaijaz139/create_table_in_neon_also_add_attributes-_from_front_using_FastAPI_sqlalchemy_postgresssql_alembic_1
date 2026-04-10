@@ -1,0 +1,2 @@
+# create_table_in_neon_also_add_attributes-_from_front_using_FastAPI_sqlalchemy_postgresssql_alembic_1
+COVER BASIC OR ADVANCE
