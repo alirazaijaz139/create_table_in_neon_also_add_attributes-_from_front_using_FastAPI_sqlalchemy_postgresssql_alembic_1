@@ -1,0 +1,1 @@
+"""JWT authentication FastAPI application package."""
